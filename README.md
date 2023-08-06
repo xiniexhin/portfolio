@@ -14,12 +14,6 @@ I'm Sheena, a 💻 Data Analyst, 🚀 Software Developer, 🎨 Layout Artist, an
 
 ![Your GitHub Stats](Your GitHub Stats URL)
 
-#### Notable Projects:
-
-- [Project 1 Name](Project 1 URL): Brief description or key features.
-- [Project 2 Name](Project 2 URL): Brief description or key features.
-- [Project 3 Name](Project 3 URL): Brief description or key features.
-
 #### My Toolbox:
 
 - 💼 Data Analysis: Python, Pandas, SQL
@@ -29,9 +23,9 @@ I'm Sheena, a 💻 Data Analyst, 🚀 Software Developer, 🎨 Layout Artist, an
 
 #### Let's Connect:
 
-- [LinkedIn](Your LinkedIn Profile URL)
-- [Twitter](Your Twitter Profile URL)
-- [Portfolio Website](Your Portfolio Website URL)
+- [LinkedIn](https://www.linkedin.com/in/sheena-gil/)
+- [Twitter](https://twitter.com/sheenagil24)
+- [Portfolio Website](https://xiniexhin.github.io/portfolio/)
 
 Looking forward to connecting with fellow developers, data enthusiasts, and fellow cat lovers! Let's create something amazing together! 🚀✨😸
 
