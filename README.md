@@ -5,14 +5,14 @@ I'm Sheena, a 💻 Data Analyst, 🚀 Software Developer, 🎨 Layout Artist, an
 #### About Me:
 
 - 📊 As a Data Analyst, I love uncovering insights from data and creating data-driven solutions.
-- 💻 I’m passionate about software development and enjoy building innovative applications.
 - 🎨 As a layout artist, I have an eye for aesthetics and creating visually appealing designs.
 - 😺 I'm obsessed with cats! Share your cute cat pics with me anytime! 🐱💕
 - 💡 I'm constantly exploring new technologies and tools to enhance my skills.
 
 #### GitHub Stats:
+[![Xhin's GitHub stats](https://github-readme-stats.vercel.app/api?username=xiniexhin&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)😅
 
-![Your GitHub Stats](Your GitHub Stats URL)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xiniexhin&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 #### My Toolbox:
 
